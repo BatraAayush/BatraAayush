@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 instagram : aayush_batra__
+linkedIn : https://www.linkedin.com/in/aayush-batra-475ab9201/
+
 
 <!---
 BatraAayush/BatraAayush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
