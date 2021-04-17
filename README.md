@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
-instagram : aayush_batra__
-linkedIn : https://www.linkedin.com/in/aayush-batra-475ab9201/
+- instagram : aayush_batra__
+- linkedIn : https://www.linkedin.com/in/aayush-batra-475ab9201/
 
 
 <!---
