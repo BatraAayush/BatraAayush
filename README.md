@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - instagram : aayush_batra__
 - linkedIn : https://www.linkedin.com/in/aayush-batra-475ab9201/
-- Portfolio : aayushbatra.netlify.app/
+- Portfolio : https://aayushbatra.netlify.app/
 
 
 
